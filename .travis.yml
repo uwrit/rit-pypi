@@ -3,6 +3,8 @@ python:
  - '3.6'
 install:
  - pip install -U -e .
+script:
+ - pip list
 deploy:
   provider: pypi
   user: uwrit
