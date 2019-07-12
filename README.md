@@ -1,4 +1,4 @@
-# rit-pypi
+# uwrit-rit-pypi
 
 [![Build Status](https://travis-ci.com/uwrit/rit-pypi.svg?branch=master)](https://travis-ci.org/uwrit/rit-pypi)
 
